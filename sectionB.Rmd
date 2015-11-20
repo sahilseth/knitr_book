@@ -1,10 +1,10 @@
 ---
 title: "Example of my tool ...."
 output:
-  html_document:
+  pdf_document:
     number_sections: yes
     toc: yes
-  pdf_document:
+  html_document:
     number_sections: yes
     toc: yes
 ---
