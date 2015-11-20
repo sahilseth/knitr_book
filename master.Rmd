@@ -1,17 +1,20 @@
 ---
 title: "Master Document"
 output:
-  pdf_document:
+  html_document:
     number_sections: yes
     toc: yes
-  html_document:
+  pdf_document:
     number_sections: yes
     toc: yes
 ---
 
 
-```{r child = 'section1.Rmd'}
+# Section A
+```{r child = 'sectionA.Rmd'}
 ```
 
-```{r child = 'section2_example.Rmd'}
+# Example of my tool ....
+
+```{r child = 'sectionB.Rmd'}
 ```

@@ -1,10 +1,9 @@
 ---
-title: "Untitled"
+title: "Section A"
 output: pdf_document
 ---
 
 
-# Section 1
 
 This is a markdown document with two sections. The master.pdf should have 
 
@@ -13,7 +12,7 @@ This is a markdown document with two sections. The master.pdf should have
 summary(cars)
 ```
 
-## Including Plots
+## section A 1
 
 You can also embed plots, for example:
 
