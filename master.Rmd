@@ -1,0 +1,17 @@
+---
+title: "Master Document"
+output:
+  pdf_document:
+    number_sections: yes
+    toc: yes
+  html_document:
+    number_sections: yes
+    toc: yes
+---
+
+
+```{r child = 'section1.Rmd'}
+```
+
+```{r child = 'section2_example.Rmd'}
+```
